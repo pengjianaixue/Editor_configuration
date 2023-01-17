@@ -1,7 +1,4 @@
 set encoding=utf-8
-let $GTAGSCONF = '/home/eijpnae/Software/bin/share/gtags/gtags.conf'
-let $VIMRUNTIME="/home/eijpnae/SoftWare/vim/runtime"
-set runtimepath=~/SoftWare/vim/runtime
 set nocompatible              " be iMproved, required
 set backspace=indent,eol,start
 filetype off                  " required
